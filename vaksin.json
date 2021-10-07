@@ -1,0 +1,830 @@
+[
+  {
+    "id": "KLMA195725",
+    "Name": "KLINIK DIANANDI IMUNICARE BIOFARMA",
+    "Latitude": -6.314274725,
+    "Longitude": 106.6972195
+  },
+  {
+    "id": "KLKA595183",
+    "Name": "KLINIK TELKOMEDIKA",
+    "Latitude": -6.276399183,
+    "Longitude": 106.663595
+  },
+  {
+    "id": "KLYA784469",
+    "Name": "KLINIK MAKMUR JAYA",
+    "Latitude": -6.304552469,
+    "Longitude": 106.7567784
+  },
+  {
+    "id": "KLKA358194",
+    "Name": "KLINIK INDAH MEDIKA",
+    "Latitude": -6.183368194,
+    "Longitude": 106.6913358
+  },
+  {
+    "id": "KLEN984521",
+    "Name": "KLINIK POLSEK PONDOK AREN",
+    "Latitude": -6.273679521,
+    "Longitude": 106.6927984
+  },
+  {
+    "id": "RSRO915966",
+    "Name": "RSIA BINA MEDIKA BINTARO",
+    "Latitude": -6.275957966,
+    "Longitude": 106.7182915
+  },
+  {
+    "id": "RSNG943234",
+    "Name": "RS HERMINA SERPONG",
+    "Latitude": -6.346505234,
+    "Longitude": 106.6856943
+  },
+  {
+    "id": "RSAT003939",
+    "Name": "RS HERMINA CIPUTAT",
+    "Latitude": -6.306887939,
+    "Longitude": 106.7595003
+  },
+  {
+    "id": "BPGI801336",
+    "Name": "BP WIRASAKTI KESDAM III/SILIWANGI",
+    "Latitude": -6.907794336,
+    "Longitude": 107.6154801
+  },
+  {
+    "id": "BOAL648407",
+    "Name": "Bogor Senior Hospital",
+    "Latitude": -6.640706407,
+    "Longitude": 106.8329648
+  },
+  {
+    "id": "RSIA316327",
+    "Name": "RS MELANIA",
+    "Latitude": -6.611296327,
+    "Longitude": 106.8006316
+  },
+  {
+    "id": "RSRA277046",
+    "Name": "RS AZRA",
+    "Latitude": -6.579376046,
+    "Longitude": 106.8073277
+  },
+  {
+    "id": "RSOR437859",
+    "Name": "RSUD KOTA BOGOR",
+    "Latitude": -6.580432859,
+    "Longitude": 106.7781437
+  },
+  {
+    "id": "RSOR597921",
+    "Name": "RSU HERMINA BOGOR",
+    "Latitude": -6.557431921,
+    "Longitude": 106.7737597
+  },
+  {
+    "id": "BMAL477661",
+    "Name": "BMC MAYAPADA HOSPITAL",
+    "Latitude": -6.607981661,
+    "Longitude": 106.8111477
+  },
+  {
+    "id": "RSOR617622",
+    "Name": "RS BHAYANGKARA TK.IV BOGOR",
+    "Latitude": -6.596550622,
+    "Longitude": 106.7913617
+  },
+  {
+    "id": "KLAH925927",
+    "Name": "KLINIK DENKESYAH",
+    "Latitude": -6.581812927,
+    "Longitude": 106.7948925
+  },
+  {
+    "id": "PUCV588389",
+    "Name": "PUSKESMAS MEKARWANGI BCV",
+    "Latitude": -6.542385389,
+    "Longitude": 106.7839588
+  },
+  {
+    "id": "RSMI461624",
+    "Name": "RS PMI",
+    "Latitude": -6.598659624,
+    "Longitude": 106.8050461
+  },
+  {
+    "id": "RSAK531964",
+    "Name": "RS SALAK",
+    "Latitude": -6.591316964,
+    "Longitude": 106.7974531
+  },
+  {
+    "id": "RSDI429799",
+    "Name": "RSJ DR. H. MARZOEKI MAHDI",
+    "Latitude": -6.582979799,
+    "Longitude": 106.7803429
+  },
+  {
+    "id": "PKBU002428",
+    "Name": "PKM WARUNGJAMBU",
+    "Latitude": -6.568956428,
+    "Longitude": 106.8112002
+  },
+  {
+    "id": "PUIL287134",
+    "Name": "PUSKESMAS TEGAL GUNDIL",
+    "Latitude": -6.580862134,
+    "Longitude": 106.8133287
+  },
+  {
+    "id": "PUBU039296",
+    "Name": "PUSKESMAS WARUNG JAMBU",
+    "Latitude": -6.568955296,
+    "Longitude": 106.8112039
+  },
+  {
+    "id": "PUGI575518",
+    "Name": "PUSKESMAS MEKAR WANGI",
+    "Latitude": -6.542385518,
+    "Longitude": 106.7839575
+  },
+  {
+    "id": "SIAT332195",
+    "Name": "SILOAM CLINIC BOGOR BARAT",
+    "Latitude": -6.572088195,
+    "Longitude": 106.753332
+  },
+  {
+    "id": "RSGA062632",
+    "Name": "RS MEDIKA DRAMAGA",
+    "Latitude": -6.57154632,
+    "Longitude": 106.7395062
+  },
+  {
+    "id": "KLMA321521",
+    "Name": "KLINIK GERIATRI WIJAYAKUSUMA",
+    "Latitude": -6.587639521,
+    "Longitude": 106.7848321
+  },
+  {
+    "id": "KLAN367452",
+    "Name": "KLINIK PRATAMA PAKUAN",
+    "Latitude": -6.626559452,
+    "Longitude": 106.8173367
+  },
+  {
+    "id": "RSIA346078",
+    "Name": "RS VANIA",
+    "Latitude": -6.612910078,
+    "Longitude": 106.8078346
+  },
+  {
+    "id": "RSMI443023",
+    "Name": "RS UMMI",
+    "Latitude": -6.608526023,
+    "Longitude": 106.7946443
+  },
+  {
+    "id": "BOAL291254",
+    "Name": "Bogor Senior Hospital",
+    "Latitude": -6.640659254,
+    "Longitude": 106.8329291
+  },
+  {
+    "id": "KLDA574733",
+    "Name": "KLINIK KIMIA FARMA JUANDA",
+    "Latitude": -6.600032733,
+    "Longitude": 106.7944574
+  },
+  {
+    "id": "KLAH051195",
+    "Name": "KLINIK AFIAH",
+    "Latitude": -6.587653195,
+    "Longitude": 106.7894051
+  },
+  {
+    "id": "KLKA354264",
+    "Name": "KLINIK TERA MEDIKA",
+    "Latitude": -6.593990264,
+    "Longitude": 106.7871354
+  },
+  {
+    "id": "RSAR051279",
+    "Name": "RSKIA SAWOJAJAR",
+    "Latitude": -6.588090279,
+    "Longitude": 106.7936051
+  },
+  {
+    "id": "RSOR881533",
+    "Name": "RS SILOAM BOGOR",
+    "Latitude": -6.595578533,
+    "Longitude": 106.8046881
+  },
+  {
+    "id": "RSNA801124",
+    "Name": "RS JULIANA",
+    "Latitude": -6.628255124,
+    "Longitude": 106.8235801
+  },
+  {
+    "id": "RSAN985653",
+    "Name": "RS MULIA PAJAJARAN",
+    "Latitude": -6.575900653,
+    "Longitude": 106.8077985
+  },
+  {
+    "id": "RSDA472621",
+    "Name": "RSIA NURAIDA",
+    "Latitude": -6.581310621,
+    "Longitude": 106.81472
+  },
+  {
+    "id": "RSOR474202",
+    "Name": "RS ISLAM BOGOR",
+    "Latitude": -6.558880202,
+    "Longitude": 106.7921474
+  },
+  {
+    "id": "RSOR322279",
+    "Name": "RSIA PASUTRI BOGOR",
+    "Latitude": -6.570613279,
+    "Longitude": 106.7988322
+  },
+  {
+    "id": "RSNI143825",
+    "Name": "RSIA BUNDA SURYATNI",
+    "Latitude": -6.552410825,
+    "Longitude": 106.7753143
+  },
+  {
+    "id": "KLKA871369",
+    "Name": "KLINIK MEKARWANGI MEDIKA",
+    "Latitude": -6.5345369,
+    "Longitude": 106.7818871
+  },
+  {
+    "id": "PKUR606751",
+    "Name": "PKM BOGOR TIMUR",
+    "Latitude": -6.606564751,
+    "Longitude": 106.8109606
+  },
+  {
+    "id": "DIOR686279",
+    "Name": "DINAS KESEHATAN KOTA BOGOR",
+    "Latitude": -6.575830279,
+    "Longitude": 106.7994686
+  },
+  {
+    "id": "RSIA405069",
+    "Name": "RS MEILIA",
+    "Latitude": -6.376669069,
+    "Longitude": 106.9019405
+  },
+  {
+    "id": "RSAH399574",
+    "Name": "RSU HASANAH GRAHA AFIAH",
+    "Latitude": -6.417173574,
+    "Longitude": 106.8415399
+  },
+  {
+    "id": "RSNG415067",
+    "Name": "RSIA TUMBUH KEMBANG",
+    "Latitude": -6.37164067,
+    "Longitude": 106.8613415
+  },
+  {
+    "id": "RSBU457317",
+    "Name": "RS TUGU IBU",
+    "Latitude": -6.35649317,
+    "Longitude": 106.8603457
+  },
+  {
+    "id": "RSOK385439",
+    "Name": "RS SIMPANGAN DEPOK",
+    "Latitude": -6.408605439,
+    "Longitude": 106.8616385
+  },
+  {
+    "id": "RSOB052395",
+    "Name": "RS BHAYANGKARA BRIMOB",
+    "Latitude": -6.354821395,
+    "Longitude": 106.8493052
+  },
+  {
+    "id": "RSOK519271",
+    "Name": "RS SENTRA MEDIKA CISALAK DEPOK",
+    "Latitude": -6.390854271,
+    "Longitude": 106.8654519
+  },
+  {
+    "id": "RSOK554411",
+    "Name": "RS CITRA MEDIKA DEPOK",
+    "Latitude": -6.427245411,
+    "Longitude": 106.8232554
+  },
+  {
+    "id": "RSHA912013",
+    "Name": "RSU BHAKTI YUDHA",
+    "Latitude": -6.397598013,
+    "Longitude": 106.8060912
+  },
+  {
+    "id": "RSAH846977",
+    "Name": "RSIA BUNDA ALIYAH",
+    "Latitude": -6.405475977,
+    "Longitude": 106.8198846
+  },
+  {
+    "id": "RSTI343058",
+    "Name": "RSIA SETYA BHAKTI",
+    "Latitude": -6.368351058,
+    "Longitude": 106.860343
+  },
+  {
+    "id": "RSDA895533",
+    "Name": "RS BUNDA MARGONDA",
+    "Latitude": -6.365264533,
+    "Longitude": 106.8347895
+  },
+  {
+    "id": "RSOK187374",
+    "Name": "RS MITRA KELUARGA DEPOK",
+    "Latitude": -6.39429374,
+    "Longitude": 106.8246187
+  },
+  {
+    "id": "RSIA259832",
+    "Name": "RS UNIVERSITAS INDONESIA",
+    "Latitude": -6.371903832,
+    "Longitude": 106.8302259
+  },
+  {
+    "id": "RSBU056483",
+    "Name": "RS GRAHA PERMATA IBU",
+    "Latitude": -6.370724483,
+    "Longitude": 106.8134056
+  },
+  {
+    "id": "RSRE938896",
+    "Name": "RS PURI CINERE",
+    "Latitude": -6.321746896,
+    "Longitude": 106.7827938
+  },
+  {
+    "id": "RSOK639281",
+    "Name": "RS HERMINA DEPOK",
+    "Latitude": -6.399902281,
+    "Longitude": 106.8251639
+  },
+  {
+    "id": "RSOK634557",
+    "Name": "RSIA ASYIFA DEPOK",
+    "Latitude": -6.393848557,
+    "Longitude": 106.7713634
+  },
+  {
+    "id": "RSOK448757",
+    "Name": "RS PERMATA DEPOK",
+    "Latitude": -6.401728757,
+    "Longitude": 106.7704448
+  },
+  {
+    "id": "RSOK412481",
+    "Name": "RSUD KOTA DEPOK",
+    "Latitude": -6.403742481,
+    "Longitude": 106.7584412
+  },
+  {
+    "id": "RSIQ349895",
+    "Name": "RSU CITRA ARAFIQ",
+    "Latitude": -6.372784895,
+    "Longitude": 106.8438349
+  },
+  {
+    "id": "RSAM212441",
+    "Name": "RS JANTUNG DIAGRAM",
+    "Latitude": -6.321690441,
+    "Longitude": 106.7832212
+  },
+  {
+    "id": "RSGR424662",
+    "Name": "RS Hermina Depok GR",
+    "Latitude": -6.399795662,
+    "Longitude": 106.8251424
+  },
+  {
+    "id": "KLAN675253",
+    "Name": "Klinik Kimia Farma Adelina Sawangan",
+    "Latitude": -6.403490253,
+    "Longitude": 106.770675
+  },
+  {
+    "id": "KP52721733",
+    "Name": "KPRJ KIMIA FARMA 352",
+    "Latitude": -6.375318733,
+    "Longitude": 106.8327721
+  },
+  {
+    "id": "KLGR237914",
+    "Name": "Klinik Abadi Jaya GR",
+    "Latitude": -6.389435914,
+    "Longitude": 106.8520237
+  },
+  {
+    "id": "RSGR574303",
+    "Name": "RS BUNDA MARGONDA GR",
+    "Latitude": -6.364987303,
+    "Longitude": 106.8347574
+  },
+  {
+    "id": "RSGR305366",
+    "Name": "RS Sentra Medika Cisalak GR",
+    "Latitude": -6.390630366,
+    "Longitude": 106.8654305
+  },
+  {
+    "id": "KLOB797862",
+    "Name": "Klinik Sikesjas Korbrimob",
+    "Latitude": -6.350965862,
+    "Longitude": 106.8474797
+  },
+  {
+    "id": "KLUI799403",
+    "Name": "Klinik Satelit Makara UI",
+    "Latitude": -6.361016403,
+    "Longitude": 106.8227799
+  },
+  {
+    "id": "KLOK962423",
+    "Name": "Klinik Polres Metro Depok",
+    "Latitude": -6.394124423,
+    "Longitude": 106.8236962
+  },
+  {
+    "id": "POOK049633",
+    "Name": "Pos Vaksin Dinkes Depok",
+    "Latitude": -6.394433633,
+    "Longitude": 106.8222049
+  },
+  {
+    "id": "SEOS027421",
+    "Name": "Sentra Vaksinasi Kecamatan Tapos",
+    "Latitude": -6.417737421,
+    "Longitude": 106.8869027
+  },
+  {
+    "id": "PKAN869908",
+    "Name": "PKM PADURENAN",
+    "Latitude": -6.211520908,
+    "Longitude": 106.6989869
+  },
+  {
+    "id": "PKRU548828",
+    "Name": "PKM KALI BARU",
+    "Latitude": -6.101910828,
+    "Longitude": 106.9275548
+  },
+  {
+    "id": "PKRA498874",
+    "Name": "PKM PERWIRA",
+    "Latitude": -6.206832874,
+    "Longitude": 107.0036498
+  },
+  {
+    "id": "RSNG273304",
+    "Name": "RS KARYA MEDIKA BANTAR GEBANG",
+    "Latitude": -6.319580304,
+    "Longitude": 106.985273
+  },
+  {
+    "id": "RSNG874103",
+    "Name": "RSUD BANTAR GEBANG",
+    "Latitude": -6.314526103,
+    "Longitude": 106.9868874
+  },
+  {
+    "id": "KLKA853613",
+    "Name": "KLINIK TRIMEDIKA",
+    "Latitude": -6.230317613,
+    "Longitude": 106.9581853
+  },
+  {
+    "id": "RSKA499901",
+    "Name": "RSIA SELASIH MEDIKA",
+    "Latitude": -6.230723901,
+    "Longitude": 106.9584499
+  },
+  {
+    "id": "POSI125583",
+    "Name": "POLRES KOTA BEKASI",
+    "Latitude": -6.243907583,
+    "Longitude": 106.9995125
+  },
+  {
+    "id": "KLKA704805",
+    "Name": "KLINIK CITRA MEDIKA",
+    "Latitude": -6.17610805,
+    "Longitude": 106.8009704
+  },
+  {
+    "id": "KL06638273",
+    "Name": "KLINIK POLKES 00.09.06",
+    "Latitude": -6.244485273,
+    "Longitude": 106.9931638
+  },
+  {
+    "id": "KLIO124381",
+    "Name": "KLINIK PADMA FISIO",
+    "Latitude": -6.255360381,
+    "Longitude": 106.9693124
+  },
+  {
+    "id": "RSSI732017",
+    "Name": "RS HERMINA BEKASI",
+    "Latitude": -6.241499017,
+    "Longitude": 106.9947732
+  },
+  {
+    "id": "RSNA646776",
+    "Name": "RS ANNA",
+    "Latitude": -6.274419776,
+    "Longitude": 106.9776646
+  },
+  {
+    "id": "RSXY393619",
+    "Name": "RS HERMINA GALAXY",
+    "Latitude": -6.268671619,
+    "Longitude": 106.9721393
+  },
+  {
+    "id": "RSAT213044",
+    "Name": "RS PRIMAYA BEKASI BARAT",
+    "Latitude": -6.247464044,
+    "Longitude": 106.9840213
+  },
+  {
+    "id": "RSIR829026",
+    "Name": "RS DOKTER ADAM TALIB CIKUNIR",
+    "Latitude": -6.269271026,
+    "Longitude": 106.9689829
+  },
+  {
+    "id": "KLAT985485",
+    "Name": "KLINIK CITRA SEHAT",
+    "Latitude": -6.236689485,
+    "Longitude": 106.9826985
+  },
+  {
+    "id": "RSSI634591",
+    "Name": "RSUD KOTA BEKASI",
+    "Latitude": -6.242047591,
+    "Longitude": 107.000634
+  },
+  {
+    "id": "RSON515884",
+    "Name": "RS OMNI HOSPITAL PEKAYON",
+    "Latitude": -6.269255884,
+    "Longitude": 106.9807515
+  },
+  {
+    "id": "KLER447017",
+    "Name": "KLINIK PRATAMA DR. RAHMAN MEDICAL CENTER",
+    "Latitude": -6.258958017,
+    "Longitude": 106.985447
+  },
+  {
+    "id": "RST)476016",
+    "Name": "RS BELLA (JST)",
+    "Latitude": -6.246483016,
+    "Longitude": 107.0107476
+  },
+  {
+    "id": "RST)737831",
+    "Name": "RS GRAHA JUANDA (JST)",
+    "Latitude": -6.25184831,
+    "Longitude": 107.0299737
+  },
+  {
+    "id": "RSRI184545",
+    "Name": "RS MEKAR SARI",
+    "Latitude": -6.232475545,
+    "Longitude": 107.0107184
+  },
+  {
+    "id": "RSTA457908",
+    "Name": "RS JUWITA",
+    "Latitude": -6.25165908,
+    "Longitude": 107.0007457
+  },
+  {
+    "id": "RSSA985535",
+    "Name": "RS SILOAM SENTOSA",
+    "Latitude": -6.242407535,
+    "Longitude": 107.0265985
+  },
+  {
+    "id": "RSUR064902",
+    "Name": "RS SILOAM BEKASI TIMUR",
+    "Latitude": -6.256481902,
+    "Longitude": 107.0086064
+  },
+  {
+    "id": "RSUR169979",
+    "Name": "RS PRIMAYA BEKASI TIMUR",
+    "Latitude": -6.258994979,
+    "Longitude": 107.0199169
+  },
+  {
+    "id": "RSUR129769",
+    "Name": "RS MITRA KELUARGA BEKASI TIMUR",
+    "Latitude": -6.260086769,
+    "Longitude": 107.0131129
+  },
+  {
+    "id": "RST)382774",
+    "Name": "RS DR. SUBKI ABDULKADIR (JST)",
+    "Latitude": -6.245750774,
+    "Longitude": 107.0036382
+  },
+  {
+    "id": "RSNI889363",
+    "Name": "RS BHAKTI KARTINI",
+    "Latitude": -6.247797363,
+    "Longitude": 107.0014889
+  },
+  {
+    "id": "KLDA476134",
+    "Name": "KLINIK MITRASANA ALINDA",
+    "Latitude": -6.198822134,
+    "Longitude": 107.0064476
+  },
+  {
+    "id": "RST)822208",
+    "Name": "RS ANNA MEDIKA BEKASI (JST)",
+    "Latitude": -6.22281208,
+    "Longitude": 107.0221822
+  },
+  {
+    "id": "RSDI007114",
+    "Name": "RS SETO HASBADI",
+    "Latitude": -6.201736114,
+    "Longitude": 106.9889007
+  },
+  {
+    "id": "RSAN565942",
+    "Name": "RSIA RINOVA INTAN",
+    "Latitude": -6.204241942,
+    "Longitude": 106.9887565
+  },
+  {
+    "id": "RSRA752043",
+    "Name": "RS PRIMAYA BEKASI UTARA",
+    "Latitude": -6.205939043,
+    "Longitude": 107.0167752
+  },
+  {
+    "id": "KLTI013457",
+    "Name": "KLINIK PERMATA HATI",
+    "Latitude": -6.20585457,
+    "Longitude": 106.9889013
+  },
+  {
+    "id": "KLDA245147",
+    "Name": "KLINIK TIARA BUNDA",
+    "Latitude": -6.211096147,
+    "Longitude": 107.0307245
+  },
+  {
+    "id": "KLT)249776",
+    "Name": "KLINIK INSAN SEHAT (JST)",
+    "Latitude": -6.201642776,
+    "Longitude": 107.0002249
+  },
+  {
+    "id": "KLIA169989",
+    "Name": "KLINIK CAHAYA AMALIA",
+    "Latitude": -6.221282989,
+    "Longitude": 107.0033169
+  },
+  {
+    "id": "KLKA142163",
+    "Name": "KLINIK PRATAMA MAYA MEDIKA",
+    "Latitude": -6.176747163,
+    "Longitude": 107.0071142
+  },
+  {
+    "id": "KLDA579679",
+    "Name": "KLINIK SAYANG BUNDA",
+    "Latitude": -6.304640679,
+    "Longitude": 106.9563579
+  },
+  {
+    "id": "KLIL006494",
+    "Name": "KLINIK AL-MUZZAMIL",
+    "Latitude": -6.316584494,
+    "Longitude": 106.9496006
+  },
+  {
+    "id": "KLKA563327",
+    "Name": "KLINIK KESUMA MEDIKA",
+    "Latitude": -6.253158327,
+    "Longitude": 106.9854563
+  },
+  {
+    "id": "KLRO568973",
+    "Name": "KLINIK HANURO",
+    "Latitude": -6.286581973,
+    "Longitude": 106.9664568
+  },
+  {
+    "id": "RSIH321269",
+    "Name": "RS KARTIKA HUSADA JATIASIH",
+    "Latitude": -6.294339269,
+    "Longitude": 106.9634321
+  },
+  {
+    "id": "RSMA687788",
+    "Name": "RS MITRA KELUARGA PRATAMA",
+    "Latitude": -6.287666788,
+    "Longitude": 106.9537687
+  },
+  {
+    "id": "KLAR383437",
+    "Name": "KLINIK MAWAR",
+    "Latitude": -6.282991437,
+    "Longitude": 106.9693383
+  },
+  {
+    "id": "KLUA397069",
+    "Name": "KLINIK PRATAMA TERATAI DUA",
+    "Latitude": -6.283841069,
+    "Longitude": 106.9415397
+  },
+  {
+    "id": "KLNI068794",
+    "Name": "KLINIK ERNI",
+    "Latitude": -6.372251794,
+    "Longitude": 106.9177068
+  },
+  {
+    "id": "KLKA611238",
+    "Name": "KLINIK FAZIA MEDIKA",
+    "Latitude": -6.343844238,
+    "Longitude": 106.9300611
+  },
+  {
+    "id": "KLAN552141",
+    "Name": "KLINIK CICILIAN",
+    "Latitude": -6.356466141,
+    "Longitude": 106.9409552
+  },
+  {
+    "id": "RSNA797116",
+    "Name": "RS JATI SAMPURNA",
+    "Latitude": -6.34687116,
+    "Longitude": 106.9257797
+  },
+  {
+    "id": "RSUR552758",
+    "Name": "RS MITRA KELURGA CIBUBUR",
+    "Latitude": -6.375482758,
+    "Longitude": 106.9183552
+  },
+  {
+    "id": "RSUR372458",
+    "Name": "RS PERMATA CIBUBUR",
+    "Latitude": -6.375755458,
+    "Longitude": 106.9119372
+  },
+  {
+    "id": "RSNA244154",
+    "Name": "RSUD JATISAMPURNA",
+    "Latitude": -6.363391154,
+    "Longitude": 106.9214244
+  },
+  {
+    "id": "KLKA674787",
+    "Name": "KLINIK SARI MEDIKA",
+    "Latitude": -6.170750787,
+    "Longitude": 106.9883674
+  },
+  {
+    "id": "RSDA895663",
+    "Name": "RS ANANDA",
+    "Latitude": -6.208315663,
+    "Longitude": 106.9773895
+  },
+  {
+    "id": "RSRU074783",
+    "Name": "RSIA TAMAN HARAPAN BARU",
+    "Latitude": -6.180750783,
+    "Longitude": 106.997074
+  },
+  {
+    "id": "RSRU028509",
+    "Name": "RS TAMAN HARAPAN BARU",
+    "Latitude": -6.176585509,
+    "Longitude": 106.9986028
+  }
+]

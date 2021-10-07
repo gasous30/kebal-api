@@ -1,0 +1,18 @@
+{
+  "name": "kebal",
+  "version": "1.0.0",
+  "description": "get user's location ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Octavianus Bagaswara Adi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "node-fetch": "^3.0.0",
+    "request": "^2.88.2",
+    "twilio": "^3.67.2"
+  }
+}
