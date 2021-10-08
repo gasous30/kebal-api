@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const port = 3000;
+const port = 3001;
 const fs = require("fs");
 
 app.get("/", (req, res) => {
@@ -9,6 +9,12 @@ app.get("/", (req, res) => {
 
 app.get("/listvaksin", (req, res) => {
   fs.readFile(__dirname + "/" + "vaksin.json", "utf8", (err, data) => {
+    res.end(data);
+  });
+});
+
+app.get("/listplasma", (req, res) => {
+  fs.readFile(__dirname + "/" + "plasma.json", "utf8", (err, data) => {
     res.end(data);
   });
 });

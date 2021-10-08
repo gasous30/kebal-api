@@ -1,5 +1,1721 @@
 [
   {
+    "id": "AMGR409939",
+    "Name": "Amalia Medical Center VGR",
+    "Latitude": -6.246196939,
+    "Longitude": 106.8677409
+  },
+  {
+    "id": "BAAR746394",
+    "Name": "BAGSUMDA POLRES JAKBAR",
+    "Latitude": -6.195048394,
+    "Longitude": 106.7977746
+  },
+  {
+    "id": "BAAR993602",
+    "Name": "BALAI KESEHATAN KOARMABAR",
+    "Latitude": -6.190147602,
+    "Longitude": 106.8443993
+  },
+  {
+    "id": "BICE921977",
+    "Name": "BIC Clinic Pacific Place",
+    "Latitude": -6.223319977,
+    "Longitude": 106.809921
+  },
+  {
+    "id": "BIYA799852",
+    "Name": "BIDDOKKES POLDA METROJAYA",
+    "Latitude": -6.223055852,
+    "Longitude": 106.8111799
+  },
+  {
+    "id": "BKNG718524",
+    "Name": "BK KELAPA GADING",
+    "Latitude": -6.163681524,
+    "Longitude": 106.8854718
+  },
+  {
+    "id": "BKIL202508",
+    "Name": "BK KOLINLAMIL",
+    "Latitude": -6.107003508,
+    "Longitude": 106.892202
+  },
+  {
+    "id": "BPII093194",
+    "Name": "BP Mako Lantamal III",
+    "Latitude": -6.13242194,
+    "Longitude": 106.8319093
+  },
+  {
+    "id": "BAAN365429",
+    "Name": "Balai Kesehatan Kementerian Keuangan",
+    "Latitude": -6.170843429,
+    "Longitude": 106.839365
+  },
+  {
+    "id": "BIAL022923",
+    "Name": "Biomedilab Imperial",
+    "Latitude": -6.158549923,
+    "Longitude": 106.6969022
+  },
+  {
+    "id": "CTAN126417",
+    "Name": "CT CORP KEMENKES KEC MAMPANG PRAPATAN",
+    "Latitude": -6.240327417,
+    "Longitude": 106.830126
+  },
+  {
+    "id": "CIER976418",
+    "Name": "Ciputra Medical Center",
+    "Latitude": -6.224819418,
+    "Longitude": 106.8236976
+  },
+  {
+    "id": "DAUK622171",
+    "Name": "DANRAMIL TNI KEBON JERUK",
+    "Latitude": -6.196775171,
+    "Longitude": 106.7645622
+  },
+  {
+    "id": "DAAN263963",
+    "Name": "DANRAMIL TNI KEMBANGAN",
+    "Latitude": -6.196091963,
+    "Longitude": 106.7381263
+  },
+  {
+    "id": "DIRI329535",
+    "Name": "DIT POL AIR BAHARKAM POLRI",
+    "Latitude": -6.1135535,
+    "Longitude": 106.8707329
+  },
+  {
+    "id": "DIUT988511",
+    "Name": "DIT POLAIR JAKUT",
+    "Latitude": -6.115765511,
+    "Longitude": 106.8712988
+  },
+  {
+    "id": "DOSA041976",
+    "Name": "Dokter Nurul Clinic Jagakarsa",
+    "Latitude": -6.335435976,
+    "Longitude": 106.8271041
+  },
+  {
+    "id": "DOAH692047",
+    "Name": "Dokter Nurul Clinic Karang Tengah",
+    "Latitude": -6.312258047,
+    "Longitude": 106.7811692
+  },
+  {
+    "id": "GEIC706576",
+    "Name": "GETHealthy Clinic",
+    "Latitude": -6.124559576,
+    "Longitude": 106.7112706
+  },
+  {
+    "id": "GEAN088214",
+    "Name": "Gerai Sehat Rorotan",
+    "Latitude": -6.136218214,
+    "Longitude": 106.9547088
+  },
+  {
+    "id": "GOER889761",
+    "Name": "Good Doctors Medical Center",
+    "Latitude": -6.217912761,
+    "Longitude": 106.8349889
+  },
+  {
+    "id": "HADA707524",
+    "Name": "HARAPAN BUNDA",
+    "Latitude": -6.302832524,
+    "Longitude": 106.8681707
+  },
+  {
+    "id": "HATA088607",
+    "Name": "HARAPAN JAYAKARTA",
+    "Latitude": -6.194729607,
+    "Longitude": 106.9060088
+  },
+  {
+    "id": "JEER412417",
+    "Name": "JESSLYN MEDICAL CENTER",
+    "Latitude": -6.132578417,
+    "Longitude": 106.7117412
+  },
+  {
+    "id": "KAPK425794",
+    "Name": "KANTOR KESEHATAN PELABUHAN SOEKARNO HATTA WILKER HALIM PK",
+    "Latitude": -6.263224794,
+    "Longitude": 106.8762425
+  },
+  {
+    "id": "BSIC643031",
+    "Name": "BSTI INHARMONY CLINIC",
+    "Latitude": -6.175842031,
+    "Longitude": 106.864643
+  },
+  {
+    "id": "PUNG466922",
+    "Name": "PUSKESMAS BINONG",
+    "Latitude": -6.233637922,
+    "Longitude": 106.5899466
+  },
+  {
+    "id": "PUYA863941",
+    "Name": "PUSKESMAS PASIR JAYA",
+    "Latitude": -6.198106941,
+    "Longitude": 106.533863
+  },
+  {
+    "id": "PULI778902",
+    "Name": "PUSKESMAS SUKAWALI",
+    "Latitude": -6.038948902,
+    "Longitude": 106.5844778
+  },
+  {
+    "id": "PUAL359308",
+    "Name": "PUSKESMAS BOJONG KAMAL",
+    "Latitude": -6.330231308,
+    "Longitude": 106.5620359
+  },
+  {
+    "id": "PUNI451839",
+    "Name": "PUSKESMAS SUKATANI",
+    "Latitude": -6.126718839,
+    "Longitude": 106.5003451
+  },
+  {
+    "id": "PUIN714722",
+    "Name": "PUSKESMAS CARINGIN",
+    "Latitude": -6.317818722,
+    "Longitude": 106.5814714
+  },
+  {
+    "id": "PUIS398119",
+    "Name": "PUSKESMAS PASAR KEMIS",
+    "Latitude": -6.155641119,
+    "Longitude": 106.5491398
+  },
+  {
+    "id": "RSJA816943",
+    "Name": "RSUD BALARAJA",
+    "Latitude": -6.196139943,
+    "Longitude": 106.4423816
+  },
+  {
+    "id": "PUTA665776",
+    "Name": "PUSKESMAS SURADITA",
+    "Latitude": -6.359502776,
+    "Longitude": 106.634665
+  },
+  {
+    "id": "PUUK503943",
+    "Name": "PUSKESMAS CISAUK",
+    "Latitude": -6.323524943,
+    "Longitude": 106.6417503
+  },
+  {
+    "id": "PUAN896412",
+    "Name": "PUSKESMAS PAGEDANGAN",
+    "Latitude": -6.293326412,
+    "Longitude": 106.6303896
+  },
+  {
+    "id": "PUUG242285",
+    "Name": "PUSKESMAS CURUG",
+    "Latitude": -6.25137285,
+    "Longitude": 106.5623242
+  },
+  {
+    "id": "PUAI576642",
+    "Name": "PUSKESMAS JALAN KUTAI",
+    "Latitude": -6.212654642,
+    "Longitude": 106.5949576
+  },
+  {
+    "id": "PUAS187443",
+    "Name": "PUSKESMAS JALAN EMAS",
+    "Latitude": -6.213705443,
+    "Longitude": 106.6003187
+  },
+  {
+    "id": "PUUA217815",
+    "Name": "PUSKESMAS KELAPA DUA",
+    "Latitude": -6.236012815,
+    "Longitude": 106.6231217
+  },
+  {
+    "id": "PUOK492965",
+    "Name": "PUSKESMAS LEGOK",
+    "Latitude": -6.298204965,
+    "Longitude": 106.5889492
+  },
+  {
+    "id": "PUKA723771",
+    "Name": "PUSKESMAS BOJONG NANGKA",
+    "Latitude": -6.254158771,
+    "Longitude": 106.6000723
+  },
+  {
+    "id": "PUPA382941",
+    "Name": "PUSKESMAS CIKUPA",
+    "Latitude": -6.198106941,
+    "Longitude": 106.53382
+  },
+  {
+    "id": "PUAN468664",
+    "Name": "PUSKESMAS PANONGAN",
+    "Latitude": -6.283589664,
+    "Longitude": 106.5323468
+  },
+  {
+    "id": "PUJA094941",
+    "Name": "PUSKESMAS BALARAJA",
+    "Latitude": -6.192868941,
+    "Longitude": 106.4611094
+  },
+  {
+    "id": "PUNG293992",
+    "Name": "PUSKESMAS GEMBONG",
+    "Latitude": -6.216651992,
+    "Longitude": 106.4169293
+  },
+  {
+    "id": "PUYA486552",
+    "Name": "PUSKESMAS SUKAMULYA",
+    "Latitude": -6.151640552,
+    "Longitude": 106.4236486
+  },
+  {
+    "id": "PUSA307617",
+    "Name": "PUSKESMAS TIGA RAKSA",
+    "Latitude": -6.263901617,
+    "Longitude": 106.4678307
+  },
+  {
+    "id": "PUBE209484",
+    "Name": "PUSKESMAS JAMBE",
+    "Latitude": -6.313190484,
+    "Longitude": 106.4804209
+  },
+  {
+    "id": "PUKA646065",
+    "Name": "PUSKESMAS PASIR NANGKA",
+    "Latitude": -6.252222065,
+    "Longitude": 106.4707646
+  },
+  {
+    "id": "PUKA153971",
+    "Name": "PUSKESMAS CISOKA",
+    "Latitude": -6.26238971,
+    "Longitude": 106.4249153
+  },
+  {
+    "id": "PUEK728373",
+    "Name": "PUSKESMAS KRESEK",
+    "Latitude": -6.133567373,
+    "Longitude": 106.3787728
+  },
+  {
+    "id": "PUER216607",
+    "Name": "PUSKESMAS GUNUNG KALER",
+    "Latitude": -6.065299607,
+    "Longitude": 106.3567216
+  },
+  {
+    "id": "PUJO916636",
+    "Name": "PUSKESMAS KRONJO",
+    "Latitude": -6.060728636,
+    "Longitude": 106.4241916
+  },
+  {
+    "id": "PURU899345",
+    "Name": "PUSKESMAS MEKAR BARU",
+    "Latitude": -6.064372345,
+    "Longitude": 106.3865899
+  },
+  {
+    "id": "PUGA745937",
+    "Name": "PUSKESMAS TELUK NAGA",
+    "Latitude": -6.069820937,
+    "Longitude": 106.6468745
+  },
+  {
+    "id": "PUUS494403",
+    "Name": "PUSKESMAS TEGAL ANGUS",
+    "Latitude": -6.042591403,
+    "Longitude": 106.6651494
+  },
+  {
+    "id": "PURI868202",
+    "Name": "PUSKESMAS SUKADIRI",
+    "Latitude": -6.067154202,
+    "Longitude": 106.5578868
+  },
+  {
+    "id": "PUBI802949",
+    "Name": "PUSKESMAS KOSAMBI",
+    "Latitude": -6.086486949,
+    "Longitude": 106.6804802
+  },
+  {
+    "id": "PUYA455276",
+    "Name": "PUSKESMAS SALEMBARAN JAYA",
+    "Latitude": -6.076772276,
+    "Longitude": 106.6687455
+  },
+  {
+    "id": "PUAN131143",
+    "Name": "PUSKESMAS SEPATAN",
+    "Latitude": -6.115642143,
+    "Longitude": 106.5734131
+  },
+  {
+    "id": "PUAT264764",
+    "Name": "PUSKESMAS KEDAUNG BARAT",
+    "Latitude": -6.123133764,
+    "Longitude": 106.6056264
+  },
+  {
+    "id": "PUJI533669",
+    "Name": "PUSKESMAS PAKU HAJI",
+    "Latitude": -6.083525669,
+    "Longitude": 106.6212533
+  },
+  {
+    "id": "PUUK312325",
+    "Name": "PUSKESMAS MAUK",
+    "Latitude": -6.061149325,
+    "Longitude": 106.5104312
+  },
+  {
+    "id": "PURI829802",
+    "Name": "PUSKESMAS KEMIRI",
+    "Latitude": -6.094731802,
+    "Longitude": 106.4652829
+  },
+  {
+    "id": "PUMI265112",
+    "Name": "PUSKESMAS KOTABUMI",
+    "Latitude": -6.15566112,
+    "Longitude": 106.5707265
+  },
+  {
+    "id": "PUEG953142",
+    "Name": "PUSKESMAS RAJEG",
+    "Latitude": -6.127145142,
+    "Longitude": 106.5267953
+  },
+  {
+    "id": "PUYA368754",
+    "Name": "PUSKESMAS CIKUYA",
+    "Latitude": -6.326036754,
+    "Longitude": 106.4195368
+  },
+  {
+    "id": "PUYA062428",
+    "Name": "PUSKESMAS SINDANG JAYA",
+    "Latitude": -6.170126428,
+    "Longitude": 106.5293062
+  },
+  {
+    "id": "PUTI567447",
+    "Name": "PUSKESMAS JAYANTI",
+    "Latitude": -6.206600447,
+    "Longitude": 106.3861567
+  },
+  {
+    "id": "KL 1141676",
+    "Name": "KLINIK ILANUR 1",
+    "Latitude": -6.206160676,
+    "Longitude": 106.4506141
+  },
+  {
+    "id": "RSUR496793",
+    "Name": "RSIA ILANUR",
+    "Latitude": -6.204997793,
+    "Longitude": 106.4505496
+  },
+  {
+    "id": "BPT)328411",
+    "Name": "BP PERMATA HATI (JST)",
+    "Latitude": -6.220551411,
+    "Longitude": 106.5376328
+  },
+  {
+    "id": "SIGR304925",
+    "Name": "SILOAM HOSPITAL VGR",
+    "Latitude": -6.225138925,
+    "Longitude": 106.5979304
+  },
+  {
+    "id": "MEPA558643",
+    "Name": "METRO HOSPITALS CIKUPA",
+    "Latitude": -6.226420643,
+    "Longitude": 106.5103558
+  },
+  {
+    "id": "RSPA852116",
+    "Name": "RSIA SELARAS CIKUPA",
+    "Latitude": -6.218136116,
+    "Longitude": 106.4970852
+  },
+  {
+    "id": "RSRA746823",
+    "Name": "RSIA TIARA",
+    "Latitude": -6.227660823,
+    "Longitude": 106.5253746
+  },
+  {
+    "id": "RSAS785856",
+    "Name": "RS SELARAS",
+    "Latitude": -6.341975856,
+    "Longitude": 106.6370785
+  },
+  {
+    "id": "SITA568949",
+    "Name": "SILOAM CLINIC PERMATA",
+    "Latitude": -6.224268949,
+    "Longitude": 106.5882568
+  },
+  {
+    "id": "RSTA067484",
+    "Name": "RS KELUARGA KITA",
+    "Latitude": -6.251575484,
+    "Longitude": 106.562067
+  },
+  {
+    "id": "CEGS028566",
+    "Name": "CENTRA VAKSIN SUPERMALL KARAWACI PJ RSMKGS",
+    "Latitude": -6.226786566,
+    "Longitude": 106.6071028
+  },
+  {
+    "id": "KLIN825226",
+    "Name": "KLINIK RORO RIRIN",
+    "Latitude": -6.234451226,
+    "Longitude": 106.6232825
+  },
+  {
+    "id": "SING115155",
+    "Name": "SILOAM CLINIC GADING SERPONG",
+    "Latitude": -6.239896155,
+    "Longitude": 106.6306115
+  },
+  {
+    "id": "RSDR924343",
+    "Name": "RS QADR",
+    "Latitude": -6.226490343,
+    "Longitude": 106.616924
+  },
+  {
+    "id": "FAIC342169",
+    "Name": "FAIRYTALE AESTHETIC AND WELLNESS CLINIC",
+    "Latitude": -6.242612169,
+    "Longitude": 106.6200342
+  },
+  {
+    "id": "RSON378214",
+    "Name": "RS ST CAROLUS SUMARECON",
+    "Latitude": -6.246802214,
+    "Longitude": 106.6420378
+  },
+  {
+    "id": "KLGR573014",
+    "Name": "KLINIK KIMIA FARMA CITRA RAYA VGR",
+    "Latitude": -6.233623014,
+    "Longitude": 106.5227573
+  },
+  {
+    "id": "KLAN709778",
+    "Name": "KLINIK DR. H. GUNAWAN",
+    "Latitude": -6.23504778,
+    "Longitude": 106.6221709
+  },
+  {
+    "id": "RSGR848168",
+    "Name": "RS MENTARI VGR",
+    "Latitude": -6.257854168,
+    "Longitude": 106.6062848
+  },
+  {
+    "id": "RSDA157732",
+    "Name": "RS BETHSAIDA",
+    "Latitude": -6.254052732,
+    "Longitude": 106.6225157
+  },
+  {
+    "id": "RUUN324995",
+    "Name": "RUMAH SAKIT BUN",
+    "Latitude": -6.081472995,
+    "Longitude": 106.6970324
+  },
+  {
+    "id": "RSNG328295",
+    "Name": "RSUD KABUPATEN TANGERANG",
+    "Latitude": -6.169688295,
+    "Longitude": 106.6356328
+  },
+  {
+    "id": "RSIH565276",
+    "Name": "RS MURNI ASIH",
+    "Latitude": -6.254205276,
+    "Longitude": 106.6081565
+  },
+  {
+    "id": "RSNG694208",
+    "Name": "RS MITRA KELUARGA GADING SRPNG",
+    "Latitude": -6.248867208,
+    "Longitude": 106.6098694
+  },
+  {
+    "id": "RSJI162479",
+    "Name": "RSUD PAKUHAJI",
+    "Latitude": -6.070371479,
+    "Longitude": 106.5922162
+  },
+  {
+    "id": "KLGR496375",
+    "Name": "KLINIK PROSTASIA VGR",
+    "Latitude": -6.244075375,
+    "Longitude": 106.6336496
+  },
+  {
+    "id": "KLT)589953",
+    "Name": "KLINIK MEKAR ASRI (JST)",
+    "Latitude": -6.153717953,
+    "Longitude": 106.5760589
+  },
+  {
+    "id": "KLKA585229",
+    "Name": "KLINIK SUMA MEDIKA",
+    "Latitude": -6.170317229,
+    "Longitude": 106.5545585
+  },
+  {
+    "id": "KLSK003974",
+    "Name": "KLINIK TIRTA SANTOSO - PSK",
+    "Latitude": -6.16783974,
+    "Longitude": 106.5569003
+  },
+  {
+    "id": "KLKA577157",
+    "Name": "KLINIK MURNI MEDIKA",
+    "Latitude": -6.161162157,
+    "Longitude": 106.5619577
+  },
+  {
+    "id": "KLAN126558",
+    "Name": "KLINIK ANDALAN",
+    "Latitude": -6.161363558,
+    "Longitude": 106.5644126
+  },
+  {
+    "id": "KLTI122963",
+    "Name": "KLINIK SEHATI",
+    "Latitude": -6.171666963,
+    "Longitude": 106.5626122
+  },
+  {
+    "id": "RSRA749257",
+    "Name": "RSIA BUNDA SEJAHTERA",
+    "Latitude": -6.154285257,
+    "Longitude": 106.5803749
+  },
+  {
+    "id": "RSIA549002",
+    "Name": "RSIA SEPATAN MULIA",
+    "Latitude": -6.118171002,
+    "Longitude": 106.5785549
+  },
+  {
+    "id": "RUDA144581",
+    "Name": "RUMAH SAKIT MITRA HUSADA",
+    "Latitude": -6.075674581,
+    "Longitude": 106.6455144
+  },
+  {
+    "id": "PONG835971",
+    "Name": "POLRES KOTA TANGGERANG",
+    "Latitude": -6.16391971,
+    "Longitude": 106.6322835
+  },
+  {
+    "id": "RSIA982754",
+    "Name": "RSIA HARAPAN MULIA",
+    "Latitude": -6.2492754,
+    "Longitude": 106.4850982
+  },
+  {
+    "id": "KLKA445896",
+    "Name": "KLINIK ECO MEDIKA",
+    "Latitude": -6.093306896,
+    "Longitude": 106.7389445
+  },
+  {
+    "id": "KLAS411011",
+    "Name": "KLINIK CIPUTRA CIKUPA MAS",
+    "Latitude": -6.223397011,
+    "Longitude": 106.5043411
+  },
+  {
+    "id": "SIKA609724",
+    "Name": "SILOAM CLINIC CISOKA",
+    "Latitude": -6.264885724,
+    "Longitude": 106.4240609
+  },
+  {
+    "id": "RUTI455101",
+    "Name": "RUMAH SAKIT PERMATA HATI",
+    "Latitude": -6.208376101,
+    "Longitude": 106.4415455
+  },
+  {
+    "id": "KLFE269229",
+    "Name": "KLINIK PROLIFE",
+    "Latitude": -6.263068229,
+    "Longitude": 106.6209269
+  },
+  {
+    "id": "RUGR286765",
+    "Name": "RUMAH SAKIT CIPUTRA VGR",
+    "Latitude": -6.117034765,
+    "Longitude": 106.7054286
+  },
+  {
+    "id": "KLIA798016",
+    "Name": "KLINIK PT. CHING LUH INDONESIA",
+    "Latitude": -6.225987016,
+    "Longitude": 106.5156798
+  },
+  {
+    "id": "HEGR861239",
+    "Name": "HERMINA BITUNG VGR",
+    "Latitude": -6.221644239,
+    "Longitude": 106.5623861
+  },
+  {
+    "id": "CESA398741",
+    "Name": "CENTRA VAKSIN KODIM 0510 TRS PJ PKM TIGARAKSA",
+    "Latitude": -6.276894741,
+    "Longitude": 106.4842398
+  },
+  {
+    "id": "KLIA209031",
+    "Name": "KLINIK PROSTASIA",
+    "Latitude": -6.244150031,
+    "Longitude": 106.6335209
+  },
+  {
+    "id": "RSRI277843",
+    "Name": "RS MENTARI",
+    "Latitude": -6.257800843,
+    "Longitude": 106.6063277
+  },
+  {
+    "id": "SIGE396589",
+    "Name": "SILOAM HOSPITALS LIPPO VILLAGE",
+    "Latitude": -6.2248589,
+    "Longitude": 106.5979396
+  },
+  {
+    "id": "RSNG861926",
+    "Name": "RS HERMINA BITUNG",
+    "Latitude": -6.221430926,
+    "Longitude": 106.5623861
+  },
+  {
+    "id": "CIAL273672",
+    "Name": "CIPUTRA HOSPITAL",
+    "Latitude": -6.243919672,
+    "Longitude": 106.5215273
+  },
+  {
+    "id": "RSIH837379",
+    "Name": "RS BHAKTI ASIH",
+    "Latitude": -6.220523379,
+    "Longitude": 106.7055837
+  },
+  {
+    "id": "PUUG629557",
+    "Name": "PUSKESMAS CILEDUG",
+    "Latitude": -6.227508557,
+    "Longitude": 106.7047629
+  },
+  {
+    "id": "RSOH422254",
+    "Name": "RSIA PKU MUHAMMADIYAH CIPONDOH",
+    "Latitude": -6.19301254,
+    "Longitude": 106.6760422
+  },
+  {
+    "id": "PUAN467886",
+    "Name": "PUSKESMAS KUNCIRAN",
+    "Latitude": -6.229305886,
+    "Longitude": 106.6748467
+  },
+  {
+    "id": "PUNG162133",
+    "Name": "PUSKESMAS KETAPANG",
+    "Latitude": -6.182053133,
+    "Longitude": 106.7025162
+  },
+  {
+    "id": "PUNG238036",
+    "Name": "PUSKESMAS GONDRONG",
+    "Latitude": -6.198434036,
+    "Longitude": 106.6950238
+  },
+  {
+    "id": "PUAH904141",
+    "Name": "PUSKESMAS KARANG TENGAH",
+    "Latitude": -6.209757141,
+    "Longitude": 106.7103904
+  },
+  {
+    "id": "PUAN083581",
+    "Name": "PUSKESMAS PEDURENAN",
+    "Latitude": -6.211435581,
+    "Longitude": 106.6990083
+  },
+  {
+    "id": "PUDU368763",
+    "Name": "PUSKESMAS CIPADU",
+    "Latitude": -6.237618763,
+    "Longitude": 106.7355368
+  },
+  {
+    "id": "PUNG419267",
+    "Name": "PUSKESMAS SANGIANG",
+    "Latitude": -6.179896267,
+    "Longitude": 106.5958419
+  },
+  {
+    "id": "PUOL648577",
+    "Name": "PUSKESMAS CIKOKOL",
+    "Latitude": -6.199828577,
+    "Longitude": 106.6280648
+  },
+  {
+    "id": "PUYA435896",
+    "Name": "PUSKESMAS GEBANG RAYA",
+    "Latitude": -6.171399896,
+    "Longitude": 106.5931435
+  },
+  {
+    "id": "PUIR416701",
+    "Name": "PUSKESMAS PETIR",
+    "Latitude": -6.188056701,
+    "Longitude": 106.708416
+  },
+  {
+    "id": "PURU517678",
+    "Name": "PUSKESMAS KUNCIRAN BARU",
+    "Latitude": -6.217079678,
+    "Longitude": 106.6716517
+  },
+  {
+    "id": "PUYA064943",
+    "Name": "PUSKESMAS MANIS JAYA",
+    "Latitude": -6.213758943,
+    "Longitude": 106.579064
+  },
+  {
+    "id": "PUAN904895",
+    "Name": "PUSKESMAS PANINGGILAN",
+    "Latitude": -6.242417895,
+    "Longitude": 106.7082904
+  },
+  {
+    "id": "PUAT045754",
+    "Name": "PUSKESMAS PANUNGGANGAN BARAT",
+    "Latitude": -6.214757754,
+    "Longitude": 106.6168045
+  },
+  {
+    "id": "BPTA222546",
+    "Name": "BP PERMATA",
+    "Latitude": -6.1817546,
+    "Longitude": 106.5999222
+  },
+  {
+    "id": "KLTI503001",
+    "Name": "KLINIK LARASATI",
+    "Latitude": -6.267814001,
+    "Longitude": 106.752503
+  },
+  {
+    "id": "KLCI153289",
+    "Name": "KLINIK SA MEDIKA KARAWACI",
+    "Latitude": -6.194033289,
+    "Longitude": 106.6234153
+  },
+  {
+    "id": "KLAH989739",
+    "Name": "KLINIK KF KARANG TENGAH",
+    "Latitude": -6.222387739,
+    "Longitude": 106.7055989
+  },
+  {
+    "id": "KLRE683796",
+    "Name": "KLINIK PORIS MEDICARE",
+    "Latitude": -6.171280796,
+    "Longitude": 106.6823683
+  },
+  {
+    "id": "RSAM272713",
+    "Name": "RS Hermina Ciledug PROGRAM",
+    "Latitude": -6.229972713,
+    "Longitude": 106.7213272
+  },
+  {
+    "id": "RSTI773266",
+    "Name": "RS MELATI",
+    "Latitude": -6.177402266,
+    "Longitude": 106.6252773
+  },
+  {
+    "id": "RSAH795496",
+    "Name": "RS ISLAM SARI ASIH AR-RAHMAH",
+    "Latitude": -6.16370496,
+    "Longitude": 106.629795
+  },
+  {
+    "id": "RSSA398904",
+    "Name": "RSU AN-NISA",
+    "Latitude": -6.187579904,
+    "Longitude": 106.6046398
+  },
+  {
+    "id": "RSNG767002",
+    "Name": "RS HERMINA TANGERANG",
+    "Latitude": -6.16617002,
+    "Longitude": 106.625767
+  },
+  {
+    "id": "RSNG058242",
+    "Name": "RSUD KOTA TANGERANG",
+    "Latitude": -6.200536242,
+    "Longitude": 106.6345058
+  },
+  {
+    "id": "RSDA906806",
+    "Name": "RS DINDA",
+    "Latitude": -6.191753806,
+    "Longitude": 106.5914906
+  },
+  {
+    "id": "RSNG812595",
+    "Name": "RS SARI ASIH SANGIANG",
+    "Latitude": -6.169922595,
+    "Longitude": 106.6009812
+  },
+  {
+    "id": "RSAH168416",
+    "Name": "RSU AMINAH",
+    "Latitude": -6.237771416,
+    "Longitude": 106.7451168
+  },
+  {
+    "id": "RSYA035398",
+    "Name": "RS MULYA",
+    "Latitude": -6.22219398,
+    "Longitude": 106.6886035
+  },
+  {
+    "id": "DIAN893592",
+    "Name": "DINAS KESEHATAN",
+    "Latitude": -6.227976592,
+    "Longitude": 106.7044893
+  },
+  {
+    "id": "RSRI847725",
+    "Name": "RS MEDIKA LESTARI",
+    "Latitude": -6.224567725,
+    "Longitude": 106.7112847
+  },
+  {
+    "id": "RSRA091084",
+    "Name": "RS TIARA",
+    "Latitude": -6.183907084,
+    "Longitude": 106.6157091
+  },
+  {
+    "id": "RSFA041744",
+    "Name": "RSIA ASSYIFA",
+    "Latitude": -6.19463744,
+    "Longitude": 106.6126041
+  },
+  {
+    "id": "RSDA652312",
+    "Name": "RSIA KARUNIA BUNDA",
+    "Latitude": -6.149650312,
+    "Longitude": 106.6072652
+  },
+  {
+    "id": "RSWI058965",
+    "Name": "RSIA PRATIWI",
+    "Latitude": -6.176454965,
+    "Longitude": 106.6202058
+  },
+  {
+    "id": "RSKA628001",
+    "Name": "RSIA GEBANG MEDIKA",
+    "Latitude": -6.182832001,
+    "Longitude": 106.5926628
+  },
+  {
+    "id": "RSTI471902",
+    "Name": "RSIA BUNDA SEJATI",
+    "Latitude": -6.189741902,
+    "Longitude": 106.5888471
+  },
+  {
+    "id": "RSAH231754",
+    "Name": "RS AQIDAH",
+    "Latitude": -6.249141754,
+    "Longitude": 106.702231
+  },
+  {
+    "id": "RSAH992584",
+    "Name": "RSIA MAKIYAH",
+    "Latitude": -6.150407584,
+    "Longitude": 106.6637992
+  },
+  {
+    "id": "RSKA854321",
+    "Name": "RS KARANG TENGAH MEDIKA",
+    "Latitude": -6.20987321,
+    "Longitude": 106.7149854
+  },
+  {
+    "id": "KLLA611629",
+    "Name": "KLINIK BHAKTI MANDALA",
+    "Latitude": -6.170253629,
+    "Longitude": 106.6154611
+  },
+  {
+    "id": "KLKA377628",
+    "Name": "KLINIK KOKITS MEDIKA",
+    "Latitude": -6.169933628,
+    "Longitude": 106.6168377
+  },
+  {
+    "id": "KLTI816264",
+    "Name": "KLINIK PRASHANTI",
+    "Latitude": -6.177371264,
+    "Longitude": 106.596816
+  },
+  {
+    "id": "PURU924875",
+    "Name": "PUSKESMAS KARAWACI BARU",
+    "Latitude": -6.199502875,
+    "Longitude": 106.6145924
+  },
+  {
+    "id": "PURI076633",
+    "Name": "PUSKESMAS SUKASARI",
+    "Latitude": -6.185039633,
+    "Longitude": 106.6423076
+  },
+  {
+    "id": "PUNG759536",
+    "Name": "PUSKESMAS PABUARAN TUMPENG",
+    "Latitude": -6.16594536,
+    "Longitude": 106.6128759
+  },
+  {
+    "id": "PUOH325442",
+    "Name": "PUSKESMAS CIPONDOH",
+    "Latitude": -6.194032442,
+    "Longitude": 106.6762325
+  },
+  {
+    "id": "PUGI738196",
+    "Name": "PUSKESMAS TANAH TINGGI",
+    "Latitude": -6.172042196,
+    "Longitude": 106.6516738
+  },
+  {
+    "id": "PUEL326264",
+    "Name": "PUSKESMAS BUGEL",
+    "Latitude": -6.174168264,
+    "Longitude": 106.6058326
+  },
+  {
+    "id": "PURU989324",
+    "Name": "PUSKESMAS PASAR BARU",
+    "Latitude": -6.164116324,
+    "Longitude": 106.6284989
+  },
+  {
+    "id": "PUAD705097",
+    "Name": "PUSKESMAS PORIS PELAWAD",
+    "Latitude": -6.174810097,
+    "Longitude": 106.6649705
+  },
+  {
+    "id": "PUAN397765",
+    "Name": "PUSKESMAS PANUNGGANGAN",
+    "Latitude": -6.221656765,
+    "Longitude": 106.6437397
+  },
+  {
+    "id": "PURA626436",
+    "Name": "PUSKESMAS LARANGAN UTARA",
+    "Latitude": -6.237103436,
+    "Longitude": 106.7249626
+  },
+  {
+    "id": "PUUR961085",
+    "Name": "PUSKESMAS TAJUR",
+    "Latitude": -6.238171085,
+    "Longitude": 106.688961
+  },
+  {
+    "id": "PUAR027841",
+    "Name": "PUSKESMAS PONDOK BAHAR",
+    "Latitude": -6.202425841,
+    "Longitude": 106.7022027
+  },
+  {
+    "id": "PUNG083607",
+    "Name": "PUSKESMAS JATIUWUNG",
+    "Latitude": -6.190147607,
+    "Longitude": 106.5891083
+  },
+  {
+    "id": "PURI873621",
+    "Name": "PUSKESMAS CIBODASARI",
+    "Latitude": -6.209516621,
+    "Longitude": 106.6088873
+  },
+  {
+    "id": "PUJA203481",
+    "Name": "PUSKESMAS BAJA",
+    "Latitude": -6.206245481,
+    "Longitude": 106.6038203
+  },
+  {
+    "id": "PUYA097093",
+    "Name": "PUSKESMAS PERIUK JAYA",
+    "Latitude": -6.164125093,
+    "Longitude": 106.6027097
+  },
+  {
+    "id": "PUOR036362",
+    "Name": "PUSKESMAS GEMBOR",
+    "Latitude": -6.170821362,
+    "Longitude": 106.5830036
+  },
+  {
+    "id": "PUER747858",
+    "Name": "PUSKESMAS BATUCEPER",
+    "Latitude": -6.162885858,
+    "Longitude": 106.6690747
+  },
+  {
+    "id": "PUAN024645",
+    "Name": "PUSKESMAS KEDAUNG WETAN",
+    "Latitude": -6.132972645,
+    "Longitude": 106.6242024
+  },
+  {
+    "id": "PUGA626463",
+    "Name": "PUSKESMAS PORIS GAGA",
+    "Latitude": -6.173342463,
+    "Longitude": 106.6795626
+  },
+  {
+    "id": "PURI862754",
+    "Name": "PUSKESMAS NEGLASARI",
+    "Latitude": -6.153602754,
+    "Longitude": 106.6323862
+  },
+  {
+    "id": "PUDA878126",
+    "Name": "PUSKESMAS BENDA",
+    "Latitude": -6.131723126,
+    "Longitude": 106.6854878
+  },
+  {
+    "id": "PURU977487",
+    "Name": "PUSKESMAS JURUMUDI BARU",
+    "Latitude": -6.148192487,
+    "Longitude": 106.6741977
+  },
+  {
+    "id": "RSCI669691",
+    "Name": "RS SARI ASIH KARAWACI",
+    "Latitude": -6.177941691,
+    "Longitude": 106.6261669
+  },
+  {
+    "id": "RSNG813469",
+    "Name": "RS EMC TANGERANG",
+    "Latitude": -6.183837469,
+    "Longitude": 106.6481813
+  },
+  {
+    "id": "RSOT023296",
+    "Name": "RS TK IV DAAN MOGOT",
+    "Latitude": -6.171886296,
+    "Longitude": 106.6315023
+  },
+  {
+    "id": "RSUG743323",
+    "Name": "RS SARI ASIH CILEDUG",
+    "Latitude": -6.228064323,
+    "Longitude": 106.718743
+  },
+  {
+    "id": "RSLA216359",
+    "Name": "RSUP DR SITANALA",
+    "Latitude": -6.161879359,
+    "Longitude": 106.6348216
+  },
+  {
+    "id": "RSUK447021",
+    "Name": "RS HERMINA PERIUK",
+    "Latitude": -6.151007021,
+    "Longitude": 106.5937447
+  },
+  {
+    "id": "RSDA253455",
+    "Name": "RSIA MUTIARA BUNDA",
+    "Latitude": -6.222957455,
+    "Longitude": 106.7214253
+  },
+  {
+    "id": "KLKA545633",
+    "Name": "KLINIK STELLA MEDIKA",
+    "Latitude": -6.211437633,
+    "Longitude": 106.7127545
+  },
+  {
+    "id": "KLRE284858",
+    "Name": "KLINIK HAEMODIALISIS RAYCARE",
+    "Latitude": -6.138942858,
+    "Longitude": 106.7065284
+  },
+  {
+    "id": "RSOH118532",
+    "Name": "RS SARI ASIH CIPONDOH",
+    "Latitude": -6.183965532,
+    "Longitude": 106.6762118
+  },
+  {
+    "id": "KKTA143369",
+    "Name": "KKP KELAS I SOEKARNO HATTA",
+    "Latitude": -6.127101369,
+    "Longitude": 106.6549143
+  },
+  {
+    "id": "META715895",
+    "Name": "METRO TANGERANG KOTA",
+    "Latitude": -6.170005895,
+    "Longitude": 106.6321715
+  },
+  {
+    "id": "RSBU092364",
+    "Name": "RS PERMATA IBU",
+    "Latitude": -6.227006364,
+    "Longitude": 106.6835092
+  },
+  {
+    "id": "RUNG135136",
+    "Name": "RUMAH SAKIT EMC TANGERANG",
+    "Latitude": -6.183816136,
+    "Longitude": 106.6482135
+  },
+  {
+    "id": "RUNG484551",
+    "Name": "RUMAH SAKIT MAYAPADA TANGERANG",
+    "Latitude": -6.20499551,
+    "Longitude": 106.6416484
+  },
+  {
+    "id": "RUNG253357",
+    "Name": "RUMAH SAKIT HERMINA TANGERANG",
+    "Latitude": -6.166511357,
+    "Longitude": 106.6266253
+  },
+  {
+    "id": "RUUK734691",
+    "Name": "RUMAH SAKIT HERMINA PERIUK",
+    "Latitude": -6.151081691,
+    "Longitude": 106.593734
+  },
+  {
+    "id": "RUCI888006",
+    "Name": "RUMAH SAKIT SARI ASIH KARAWACI",
+    "Latitude": -6.178496006,
+    "Longitude": 106.6260888
+  },
+  {
+    "id": "RUUG464334",
+    "Name": "RUMAH SAKIT SARI ASIH CILEDUG",
+    "Latitude": -6.227968334,
+    "Longitude": 106.7186464
+  },
+  {
+    "id": "RUOH869122",
+    "Name": "RUMAH SAKIT SARI ASIH CIPONDOH",
+    "Latitude": -6.1839122,
+    "Longitude": 106.6762869
+  },
+  {
+    "id": "RUNG133262",
+    "Name": "RUMAH SAKIT SARI ASIH SANGIANG",
+    "Latitude": -6.169997262,
+    "Longitude": 106.6010133
+  },
+  {
+    "id": "RUDA302604",
+    "Name": "RUMAH SAKIT MUTIARA BUNDA",
+    "Latitude": -6.226355604,
+    "Longitude": 106.7218302
+  },
+  {
+    "id": "RUSA368907",
+    "Name": "RUMAH SAKIT ANNISA",
+    "Latitude": -6.470069907,
+    "Longitude": 106.8705368
+  },
+  {
+    "id": "RSUG594051",
+    "Name": "RS Hermina Ciledug",
+    "Latitude": -6.229930051,
+    "Longitude": 106.7213594
+  },
+  {
+    "id": "RSGR086717",
+    "Name": "RSU BHAKTI ASIH VGR",
+    "Latitude": -6.220480717,
+    "Longitude": 106.7055086
+  },
+  {
+    "id": "RSRI523897",
+    "Name": "RS MANDAYA ROYAL PURI",
+    "Latitude": -6.19857897,
+    "Longitude": 106.7045523
+  },
+  {
+    "id": "RSDA106039",
+    "Name": "RS MAYAPADA",
+    "Latitude": -6.19803039,
+    "Longitude": 106.6420106
+  },
+  {
+    "id": "RUYA848991",
+    "Name": "RUMAH SAKIT PRIMAYA",
+    "Latitude": -6.240207991,
+    "Longitude": 106.9825848
+  },
+  {
+    "id": "PUGI997814",
+    "Name": "PUSKESMAS PARIGI",
+    "Latitude": -6.274171814,
+    "Longitude": 106.6923997
+  },
+  {
+    "id": "PUAN837237",
+    "Name": "PUSKESMAS KRANGGAN",
+    "Latitude": -6.337190237,
+    "Longitude": 106.6563837
+  },
+  {
+    "id": "PUDA969149",
+    "Name": "PUSKESMAS PONDOK BENDA",
+    "Latitude": -6.32494149,
+    "Longitude": 106.7075969
+  },
+  {
+    "id": "PURU663573",
+    "Name": "PUSKESMAS BENDA BARU",
+    "Latitude": -6.329962573,
+    "Longitude": 106.7153663
+  },
+  {
+    "id": "PUNG565403",
+    "Name": "PUSKESMAS SITU GINTUNG",
+    "Latitude": -6.312869403,
+    "Longitude": 106.7163565
+  },
+  {
+    "id": "PUJI155579",
+    "Name": "PUSKESMAS PONDOK RANJI",
+    "Latitude": -6.2792579,
+    "Longitude": 106.7388155
+  },
+  {
+    "id": "PUAN422986",
+    "Name": "PUSKESMAS PISANGAN",
+    "Latitude": -6.319905986,
+    "Longitude": 106.7525422
+  },
+  {
+    "id": "PUAS643677",
+    "Name": "PUSKESMAS RENGAS",
+    "Latitude": -6.27806677,
+    "Longitude": 106.7512643
+  },
+  {
+    "id": "PUAM304269",
+    "Name": "PUSKESMAS PAKU ALAM",
+    "Latitude": -6.234303269,
+    "Longitude": 106.6650304
+  },
+  {
+    "id": "PUNG383773",
+    "Name": "PUSKESMAS PONDOK PUCUNG",
+    "Latitude": -6.274126773,
+    "Longitude": 106.7061383
+  },
+  {
+    "id": "PUNG524303",
+    "Name": "PUSKESMAS PONDOK BETUNG",
+    "Latitude": -6.260513303,
+    "Longitude": 106.7481524
+  },
+  {
+    "id": "PUUR164496",
+    "Name": "PUSKESMAS PONDOK KACANG TIMUR",
+    "Latitude": -6.255694496,
+    "Longitude": 106.6896164
+  },
+  {
+    "id": "PUII067198",
+    "Name": "PUSKESMAS SERPONG II",
+    "Latitude": -6.324661198,
+    "Longitude": 106.6647067
+  },
+  {
+    "id": "PUTU042894",
+    "Name": "PUSKESMAS RAWA BUNTU",
+    "Latitude": -6.317758894,
+    "Longitude": 106.6810042
+  },
+  {
+    "id": "PUYA274026",
+    "Name": "PUSKESMAS BAKTI JAYA",
+    "Latitude": -6.351891026,
+    "Longitude": 106.7118274
+  },
+  {
+    "id": "PUUS994099",
+    "Name": "PUSKESMAS BAMBU APUS",
+    "Latitude": -6.32932099,
+    "Longitude": 106.7274994
+  },
+  {
+    "id": "PURU756609",
+    "Name": "PUSKESMAS SAWAH BARU",
+    "Latitude": -6.287367609,
+    "Longitude": 106.7173756
+  },
+  {
+    "id": "PUAN596115",
+    "Name": "PUSKESMAS LENGKONG WETAN",
+    "Latitude": -6.283730115,
+    "Longitude": 106.6791596
+  },
+  {
+    "id": "PUIR986941",
+    "Name": "PUSKESMAS PONDOK CABE ILIR",
+    "Latitude": -6.339659941,
+    "Longitude": 106.7694986
+  },
+  {
+    "id": "KLJI279362",
+    "Name": "KLINIK PERTAMEDIKA PDK RANJI",
+    "Latitude": -6.273275362,
+    "Longitude": 106.7442279
+  },
+  {
+    "id": "KLRO595352",
+    "Name": "KLINIK ICHSAN BINTARO",
+    "Latitude": -6.273448352,
+    "Longitude": 106.7113595
+  },
+  {
+    "id": "KLEN853372",
+    "Name": "KLINIK AMIRA - PD AREN",
+    "Latitude": -6.256981372,
+    "Longitude": 106.7040853
+  },
+  {
+    "id": "KLYU066564",
+    "Name": "KLINIK WAHYU",
+    "Latitude": -6.251056564,
+    "Longitude": 106.6817066
+  },
+  {
+    "id": "KLRA243001",
+    "Name": "KLINIK LENTERA",
+    "Latitude": -6.342592001,
+    "Longitude": 106.7277243
+  },
+  {
+    "id": "KLEL536716",
+    "Name": "KLINIK POLRES TANGSEL",
+    "Latitude": -6.342042716,
+    "Longitude": 106.6739536
+  },
+  {
+    "id": "KLNG736484",
+    "Name": "KLINIK KIMIA FARMA KEDAUNG",
+    "Latitude": -6.313553484,
+    "Longitude": 106.7337736
+  },
+  {
+    "id": "RSSD804786",
+    "Name": "RS MEDIKA BSD",
+    "Latitude": -6.284015786,
+    "Longitude": 106.6676804
+  },
+  {
+    "id": "RSAT573798",
+    "Name": "RS. SARI ASIH CIPUTAT",
+    "Latitude": -6.325028798,
+    "Longitude": 106.7443573
+  },
+  {
+    "id": "RSIH046406",
+    "Name": "RSIA CINTA KASIH",
+    "Latitude": -6.298880406,
+    "Longitude": 106.7397046
+  },
+  {
+    "id": "RSAT422284",
+    "Name": "RS BUAH HATI CIPUTAT",
+    "Latitude": -6.310447284,
+    "Longitude": 106.7328422
+  },
+  {
+    "id": "RUAL824322",
+    "Name": "RUMAH INDONESIA SEHAT HOSPITAL",
+    "Latitude": -6.29415322,
+    "Longitude": 106.6842824
+  },
+  {
+    "id": "RSYA775002",
+    "Name": "RSIA VITALAYA",
+    "Latitude": -6.345158002,
+    "Longitude": 106.7152775
+  },
+  {
+    "id": "RSRO344205",
+    "Name": "RS PREMIER BINTARO",
+    "Latitude": -6.275985205,
+    "Longitude": 106.7237344
+  },
+  {
+    "id": "KLAT677111",
+    "Name": "KLINIK MITRA SEHAT",
+    "Latitude": -6.347172111,
+    "Longitude": 106.733677
+  },
+  {
+    "id": "PUNG759345",
+    "Name": "PUSKESMAS SERPONG",
+    "Latitude": -6.310820345,
+    "Longitude": 106.6621759
+  },
+  {
+    "id": "PUNG764841",
+    "Name": "PUSKESMAS PONDOK JAGUNG",
+    "Latitude": -6.265192841,
+    "Longitude": 106.6570764
+  },
+  {
+    "id": "PUTU002173",
+    "Name": "PUSKESMAS SETU",
+    "Latitude": -6.347219173,
+    "Longitude": 106.6788002
+  },
+  {
+    "id": "PUAT173974",
+    "Name": "PUSKESMAS CIPUTAT",
+    "Latitude": -6.309350974,
+    "Longitude": 106.7472173
+  },
+  {
+    "id": "PUAH541289",
+    "Name": "PUSKESMAS KAMPUNG SAWAH",
+    "Latitude": -6.291762289,
+    "Longitude": 106.7303541
+  },
+  {
+    "id": "PUNG482392",
+    "Name": "PUSKESMAS JOMBANG",
+    "Latitude": -6.29534392,
+    "Longitude": 106.709482
+  },
+  {
+    "id": "PUUR738175",
+    "Name": "PUSKESMAS CIPUTAT TIMUR",
+    "Latitude": -6.29810175,
+    "Longitude": 106.7623738
+  },
+  {
+    "id": "PUNG456075",
+    "Name": "PUSKESMAS PAMULANG",
+    "Latitude": -6.344930075,
+    "Longitude": 106.7356456
+  },
+  {
+    "id": "PUEN102983",
+    "Name": "PUSKESMAS PONDOK AREN",
+    "Latitude": -6.262134983,
+    "Longitude": 106.7177102
+  },
+  {
+    "id": "PUGU961165",
+    "Name": "PUSKESMAS JURANG MANGU",
+    "Latitude": -6.264222165,
+    "Longitude": 106.7304961
+  },
+  {
+    "id": "RSIN507054",
+    "Name": "RS ISLAM ASSHOBIRIN",
+    "Latitude": -6.258788054,
+    "Longitude": 106.6515507
+  },
+  {
+    "id": "KLDA624237",
+    "Name": "KLINIK WIDYA DHARMA HUSADA",
+    "Latitude": -6.342763237,
+    "Longitude": 106.7366624
+  },
+  {
+    "id": "RSDA868607",
+    "Name": "RS PERMATA SARANA HUSADA",
+    "Latitude": -6.344537607,
+    "Longitude": 106.7336868
+  },
+  {
+    "id": "RSKA057005",
+    "Name": "RS BINA MEDIKA",
+    "Latitude": -6.275766005,
+    "Longitude": 106.7182057
+  },
+  {
+    "id": "RSRO284219",
+    "Name": "RS IMC BINTARO",
+    "Latitude": -6.291788219,
+    "Longitude": 106.7053284
+  },
+  {
+    "id": "RSDA572372",
+    "Name": "RSIA CITRA ANANDA",
+    "Latitude": -6.327323372,
+    "Longitude": 106.7467572
+  },
+  {
+    "id": "KLUR356127",
+    "Name": "KLINIK POLSEK CIPUTAT TIMUR",
+    "Latitude": -6.310541127,
+    "Longitude": 106.7549356
+  },
+  {
+    "id": "RSAH164843",
+    "Name": "RS SYARIF HIDAYATULLAH",
+    "Latitude": -6.307581843,
+    "Longitude": 106.7565164
+  },
+  {
+    "id": "RSKA479318",
+    "Name": "RSIA PRIMA MEDIKA",
+    "Latitude": -6.289497318,
+    "Longitude": 106.7458479
+  },
+  {
+    "id": "PORA853677",
+    "Name": "POL UDARA",
+    "Latitude": -6.324310677,
+    "Longitude": 106.7587853
+  },
+  {
+    "id": "KLBE417949",
+    "Name": "KLINIK SILOAM PONDOK CABE",
+    "Latitude": -6.345784949,
+    "Longitude": 106.7529417
+  },
+  {
+    "id": "RSDA149397",
+    "Name": "RS BHINEKA BAKTI HUSADA",
+    "Latitude": -6.346562397,
+    "Longitude": 106.7503149
+  },
+  {
+    "id": "RSAN553929",
+    "Name": "RSU DAERAH TANGERANG SELATAN",
+    "Latitude": -6.334011929,
+    "Longitude": 106.7391553
+  },
+  {
+    "id": "RSNG306864",
+    "Name": "RS PERMATA PAMULANG",
+    "Latitude": -6.343758864,
+    "Longitude": 106.7192306
+  },
+  {
+    "id": "RSNG721249",
+    "Name": "RSIA BUAH HATI PAMULANG",
+    "Latitude": -6.343712249,
+    "Longitude": 106.7206721
+  },
+  {
+    "id": "RSRO649325",
+    "Name": "RS PONDOK INDAH BINTARO",
+    "Latitude": -6.27114325,
+    "Longitude": 106.6971649
+  },
+  {
+    "id": "RSRO986127",
+    "Name": "RS MITRA KELUARGA BINTARO",
+    "Latitude": -6.270454127,
+    "Longitude": 106.7410986
+  },
+  {
+    "id": "KLYA649858",
+    "Name": "KLINIK SILOAM GRAHA RAYA",
+    "Latitude": -6.236954858,
+    "Longitude": 106.6775649
+  },
+  {
+    "id": "KLNY838479",
+    "Name": "KLINIK DR RANNY",
+    "Latitude": -6.340984479,
+    "Longitude": 106.686838
+  },
+  {
+    "id": "RSAL702703",
+    "Name": "RS EKA HOSPITAL HOSPITAL",
+    "Latitude": -6.28579703,
+    "Longitude": 106.6655702
+  },
+  {
+    "id": "KLAT967896",
+    "Name": "KLINIK DUAEMPAT",
+    "Latitude": -6.320539896,
+    "Longitude": 106.7005967
+  },
+  {
+    "id": "RSRA764041",
+    "Name": "RS OMNI ALAM SUTERA",
+    "Latitude": -6.24477041,
+    "Longitude": 106.6510764
+  },
+  {
+    "id": "RSTA638327",
+    "Name": "RS INSAN PERMATA",
+    "Latitude": -6.235050327,
+    "Longitude": 106.6738638
+  },
+  {
     "id": "KLMA195725",
     "Name": "KLINIK DIANANDI IMUNICARE BIOFARMA",
     "Latitude": -6.314274725,
