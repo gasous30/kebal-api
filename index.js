@@ -3,6 +3,8 @@ const app = express();
 let port = process.env.PORT || 3001;
 const fs = require("fs");
 
+app.use(cors());
+
 app.get("/", (req, res) => {
   res.end("Hello World!");
 });
