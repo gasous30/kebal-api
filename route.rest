@@ -1,0 +1,43 @@
+GET http://localhost:3001/listvaksin
+
+
+###
+
+
+POST http://localhost:3001/listvaksin
+Content-Type: application/json
+
+{
+    "id": "AMGR779465",
+    "Name": "Amalia Medical Center VGR",
+    "Latitude": -6.246196939,
+    "Longitude": 106.8677409
+}
+
+
+###
+
+GET http://localhost:3001/listplasma
+
+
+###
+
+
+POST http://localhost:3001/listplasma
+Content-Type: application/json
+
+{
+   "id": "DYA6P",
+    "nama": "Dwi Widya",
+    "usia": 59,
+    "berat": 60,
+    "jk": "pria",
+    "hamil": 0,
+    "goldar": "A",
+    "rhesus": "-",
+    "pernah-covid": "belum",
+    "sembuh-covid": "belum",
+    "transfusi": "belum",
+    "latitude": -6.540419027,
+    "longitude": 106.6307322
+}

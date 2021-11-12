@@ -1,27 +1,27 @@
+require("dotenv").config();
+
 const express = require("express");
 const cors = require("cors");
-const app = express();
-let port = process.env.PORT || 3001;
-const fs = require("fs");
+const mongoose = require("mongoose");
 
+const app = express();
 app.use(cors());
 
-app.get("/", (req, res) => {
-  res.end("Hello World!");
+mongoose.connect(process.env.DEFAULT);
+
+const db = mongoose.connection;
+
+db.on("error", console.error.bind(console, "connection error:"));
+db.once("open", () => {
+  console.log("connected");
 });
 
-app.get("/listvaksin", (req, res) => {
-  fs.readFile(__dirname + "/" + "vaksin.json", "utf8", (err, data) => {
-    res.end(data);
-  });
-});
+app.use(express.json());
 
-app.get("/listplasma", (req, res) => {
-  fs.readFile(__dirname + "/" + "plasma.json", "utf8", (err, data) => {
-    res.end(data);
-  });
-});
+const listvaksinRouter = require("./routes/listvaksin");
+app.use("/listvaksin", listvaksinRouter);
 
-app.listen(port, () => {
-  console.log(`app listening at http://localhost:${port}`);
-});
+const listplasmaRouter = require("./routes/listplasma");
+app.use("/listplasma", listplasmaRouter);
+
+app.listen(3001, () => console.log("Server has started."));
