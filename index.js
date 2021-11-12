@@ -29,4 +29,4 @@ app.use("/listvaksin", listvaksinRouter);
 const listplasmaRouter = require("./routes/listplasma");
 app.use("/listplasma", listplasmaRouter);
 
-app.listen(3001, () => console.log("Server has started."));
+app.listen(process.env.PORT || 3001, () => console.log("Server has started."));
