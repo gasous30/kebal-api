@@ -23,21 +23,21 @@ GET http://localhost:3001/listplasma
 ###
 
 
-POST http://localhost:3001/listplasma
+POST https://kebal-api.herokuapp.com/listplasma
 Content-Type: application/json
 
 {
-   "id": "DYA6P",
-    "nama": "Dwi Widya",
-    "usia": 59,
-    "berat": 60,
-    "jk": "pria",
-    "hamil": 0,
-    "goldar": "A",
-    "rhesus": "-",
-    "pernah-covid": "belum",
-    "sembuh-covid": "belum",
-    "transfusi": "belum",
-    "latitude": -6.540419027,
-    "longitude": 106.6307322
+"berat": "90",
+"goldar": "A",
+"hamil": "sudah",
+"id": "OIN9P",
+"jk": "pria",
+"latitude": -6.20934577920955,
+"longitude": 106.86054828140189,
+"nama": "Octavianus Fin",
+"pernah-covid": "sudah",
+"rhesus": "+",
+"sembuh-covid": "sudah",
+"transfusi": "sudah",
+"usia": "23",
 }
