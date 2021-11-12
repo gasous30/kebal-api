@@ -7,7 +7,10 @@ const mongoose = require("mongoose");
 const app = express();
 app.use(cors());
 
-mongoose.connect(process.env.DEFAULT);
+mongoose.connect(process.env.DEFAULT || "mongodb://localhost/default", {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+});
 
 const db = mongoose.connection;
 
